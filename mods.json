@@ -3,21 +3,12 @@
   "packages": [
     {
       "id": "zeds-dead-all-in-one",
-      "name": "ZED'S DEAD Client sans minimap",
-      "version": "2026.10.27",
+      "name": "ZED'S DEAD All In One",
+      "version": "2026.10.30",
       "kind": "pak",
-      "fileName": "ZEDDEAD_AllInOne_Client_Kamaz_MH6_280_AZERTY_NoMinimap_P.pak",
-      "url": "https://github.com/lacrampe09/zeddead/releases/download/v2026.10.27-no-minimap/ZEDDEAD_AllInOne_Client_Kamaz_MH6_280_AZERTY_NoMinimap_P.pak",
-      "sha256": "A2D76A64913715712C5201B8BA3A56735B6FBFE2F90C437D1B016D301173FD44"
-    },
-    {
-      "id": "zeds-dead-french-text",
-      "name": "ZED'S DEAD Texte français",
-      "version": "2026.10.27",
-      "kind": "pak",
-      "fileName": "zzzzzz_ZEDDEAD_FrenchText_1008_P.pak",
-      "url": "https://github.com/lacrampe09/zeddead/releases/download/v2026.10.27-no-minimap/zzzzzz_ZEDDEAD_FrenchText_1008_P.pak",
-      "sha256": "6E24FABD2FED59722A6754642E0E284D63A4988FA78630FC65C0F27B5EB31552"
+      "fileName": "zz_ZedsDead_AllInOne_P.pak",
+      "url": "https://github.com/lacrampe09/zeddead/releases/download/v2026.10.30-allinone/zz_ZedsDead_AllInOne_P.pak",
+      "sha256": "C6D565C946C3C14F75C72EB411FFFFEE0817D9A8817A129A5BAB9BFA246F23E2"
     }
   ]
 }
